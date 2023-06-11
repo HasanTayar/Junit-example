@@ -3,6 +3,7 @@
 This project consists of two simple classes, `User` and `Main`, and their respective Junit test classes, `UserTest` and `MainTest`.
 
 The `src` directory is structured as follows:
+```TSX
 src
 |
 └───com
@@ -13,7 +14,7 @@ test
 |
 ├───MainTest.java
 └───UserTest.java
-
+```
 ## Main.java
 
 The `Main` class prompts the user to input a name and age via the console, then uses these inputs to create a new `User` object.
